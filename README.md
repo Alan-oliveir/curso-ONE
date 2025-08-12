@@ -30,19 +30,19 @@ O **Oracle Next Education (ONE)** é um programa de educação e empregabilidade
 Este repositório está organizado de acordo com as fases e conteúdos do programa:
 
 ```
-├── fase-2-selecao/
+├── fase-selecao/
 │   ├── iniciante-programacao-ia/
 │   ├── desenvolvimento-pessoal/
 │   └── challenge-selecao/
 │
-├── fase-3-foundation/
+├── fase-foundation/
 │   ├── especializacao-[data-science|back-end]/
 │   │   ├── challenge-01/
 │   │   ├── challenge-02/
 │   │   └── challenge-03/
 │   └── soft-skills/
 │
-├── fase-4-advanced/
+├── fase-advanced/
 │   ├── oracle-cloud-infrastructure/
 │   ├── sql-mysql/
 │   ├── inteligencia-artificial/
